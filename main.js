@@ -45,7 +45,7 @@ const generateQuestions = async (exam) => {
     n: 10
   }, {
     headers: {
-      'Authorization': "sk-proj-PVleRNqc9M9J33MGLZFtT3BlbkFJQrMRKmvT8wuFuekRgesm"
+      'Authorization': ""
     }
   });
 
